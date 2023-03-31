@@ -1,1 +1,1 @@
-# Kanban-Board
+This project is a kanban board that accepts a user task then the user will set if the task is still to be done or its being done or its already done. It has a login page linked to it username "Sibusiso" and password "Mathebula".
